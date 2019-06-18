@@ -1,0 +1,9 @@
+addi t1, t1, 3
+addi t0, t0, 1
+addi s1, s1, 30
+power: mul t0, t0, t1
+addi s0, s0, 1
+blt s0, s1, power 
+addi a1, t0, 0
+addi a0, a0, 1
+ecall
