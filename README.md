@@ -1,3 +1,3 @@
 # cpu
 
-Creating a functional RISCV CPU using logisim. 
+Created a functional RISCV CPU using logisim. 
